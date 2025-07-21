@@ -1,5 +1,6 @@
 
 # CashBox Analyst Test Assignment
+<img width="128" height="192" alt="uml-retriver" src="https://github.com/user-attachments/assets/d6675930-7cee-4870-9ee2-1ee6eace28b2" />
 
 This repository contains a hands-on task for System Analysts.
 
@@ -18,5 +19,3 @@ This repository contains a hands-on task for System Analysts.
 📌 Read the task in `README.md` or `README.en.md`  
 🎯 Complete the diagrams, clarifications, and optional mock server  
 📤 Submit your answers via GitHub or archive
-
-<img width="256" height="384" alt="uml-retriver" src="https://github.com/user-attachments/assets/d6675930-7cee-4870-9ee2-1ee6eace28b2" />
