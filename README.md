@@ -1,8 +1,7 @@
 
 # CashBox Analyst Test Assignment
-<img width="128" height="192" alt="uml-retriver" src="https://github.com/user-attachments/assets/d6675930-7cee-4870-9ee2-1ee6eace28b2" />
-
 This repository contains a hands-on task for System Analysts.
+<img width="128" height="192" alt="uml-retriver" src="https://github.com/user-attachments/assets/d6675930-7cee-4870-9ee2-1ee6eace28b2" />
 
 ## Structure
 
