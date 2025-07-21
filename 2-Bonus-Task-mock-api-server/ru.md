@@ -1,0 +1,2 @@
+   - Разверните mock-сервер по `cashbox.yaml` через [Mockoon](https://mockoon.com/) или любой другой способ.
+   - Отправьте ссылку или инструкцию по запуску (`README` / `docker-compose`).

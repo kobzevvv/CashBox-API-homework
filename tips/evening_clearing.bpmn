@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL"
+                  id="Definitions_1"
+                  targetNamespace="http://example.com/bpmn">
+  <bpmn:process id="EveningClearing" isExecutable="true">
+    <bpmn:startEvent id="StartEvent" name="Начало клиринга"/>
+    <bpmn:task id="CloseShift" name="Закрытие смены"/>
+    <bpmn:task id="CountCash" name="Подсчёт остатка"/>
+    <bpmn:task id="Reconcile" name="Сверка с НГЛ"/>
+    <bpmn:task id="GenerateEntries" name="Генерация проводок"/>
+    <bpmn:endEvent id="EndEvent" name="Конец процесса"/>
+  </bpmn:process>
+</bpmn:definitions>

@@ -1,0 +1,14 @@
+{'source': 'mockoon: 2.0.0', 'data': [
+        {'type': 'environment', 'item': {'uuid': 'cashbox-env', 'name': 'CashBox API Mock', 'endpointPrefix': '', 'latency': 100, 'port': 3000, 'routes': [
+                    {'uuid': 'route-1', 'method': 'post', 'endpoint': 'cash/transactions', 'responses': [
+                            {'uuid': 'resp-1', 'body': '{
+                                    "status": "accepted"
+                                }', 'statusCode': 201
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
