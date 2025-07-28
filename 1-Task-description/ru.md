@@ -39,6 +39,8 @@
    - Хранение данных ≥ 365 дней
 
 7. 🏅 **Бонус (необязательно)**:
+   https://github.com/kobzevvv/CashBox-API-homework/blob/main/2-Bonus-Task-mock-api-server/ru.md
+   
 
 
 ---
